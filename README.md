@@ -1,6 +1,5 @@
 # time-tracker
 Java (Maven) application for tracking time on the job
 
-Time tracker
+java project for devops and jenkins ci cd
 
-Good Night Students!!!
